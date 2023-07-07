@@ -1,0 +1,3 @@
+/Users/danielaramos/CLionProjects/chessboard/CMakeFiles/chessboard.dir
+/Users/danielaramos/CLionProjects/chessboard/CMakeFiles/edit_cache.dir
+/Users/danielaramos/CLionProjects/chessboard/CMakeFiles/rebuild_cache.dir
