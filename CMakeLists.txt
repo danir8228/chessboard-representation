@@ -3,4 +3,4 @@ project(chessboard C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(chessboard main.c board.c board.h move.c move.h)
+add_executable(main.c board.c board.h move.c move.h main.c)
